@@ -10,7 +10,8 @@
 
 
 # Блокнот семинара 1
-Темы в блокноте: целые числа, строковые переменные, функция print() и ее параметры, ввод данных через input(). Задачки для тренировки. [Ссылка на GitHub](https://github.com/rogovich/2020_HSE_SOC_PPO/blob/master/1%20Seminar/2020_SOC_PPO_1_Seminar.ipynb)  
+Темы в блокноте: целые числа, строковые переменные, функция print() и ее параметры, ввод данных через input(). Задачки для тренировки.  
+[Ссылка на GitHub](https://github.com/rogovich/2020_HSE_SOC_PPO/blob/master/1%20Seminar/2020_SOC_PPO_1_Seminar.ipynb)  
 [Ссылка на nbviewer](https://nbviewer.jupyter.org/github/rogovich/2020_HSE_SOC_PPO/blob/master/1%20Seminar/2020_SOC_PPO_1_Seminar.ipynb)
 
 # Блокнот семинара 2
@@ -24,9 +25,9 @@
 [Ссылка на nbviewer](https://nbviewer.jupyter.org/github/rogovich/2020_HSE_SOC_PPO/blob/master/3%20Seminar/2020_SOC_PPO_3_Seminar.ipynb)
 
 # Пробный вариант контрольной работы
-Пробный вариант первой контрольной работы по семинарам 1-3
+Пробный вариант первой контрольной работы по семинарам 1-3  
 [Ссылка на GitHub](https://github.com/rogovich/2020_HSE_SOC_PPO/blob/master/1_Test/2020_HSE_SOC_PPO_Test1_Mock.ipynb)  
-[Ссылка на nbviewer](https://nbviewer.jupyter.org/github/rogovich/2020_HSE_SOC_PPO/blob/master/1_Test/2020_HSE_SOC_PPO_Test1_Mock.ipynb)
+[Ссылка на nbviewer] (https://nbviewer.jupyter.org/github/rogovich/2020_HSE_SOC_PPO/blob/master/1_Test/2020_HSE_SOC_PPO_Test1_Mock.ipynb)
 
 # Дополнительные материалы 
 
