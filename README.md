@@ -27,7 +27,7 @@
 # Пробный вариант контрольной работы
 Пробный вариант первой контрольной работы по семинарам 1-3  
 [Ссылка на GitHub](https://github.com/rogovich/2020_HSE_SOC_PPO/blob/master/1_Test/2020_HSE_SOC_PPO_Test1_Mock.ipynb)  
-[Ссылка на nbviewer] (https://nbviewer.jupyter.org/github/rogovich/2020_HSE_SOC_PPO/blob/master/1_Test/2020_HSE_SOC_PPO_Test1_Mock.ipynb)
+[Ссылка на nbviewer](https://nbviewer.jupyter.org/github/rogovich/2020_HSE_SOC_PPO/blob/master/1_Test/2020_HSE_SOC_PPO_Test1_Mock.ipynb)
 
 # Дополнительные материалы 
 
